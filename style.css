@@ -1,0 +1,14 @@
+.text{
+    color: red;
+    font-size: 50px;
+}
+.main{
+    color:blue;
+    font-size: 30px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+    background-color: #11fe00;
+}
